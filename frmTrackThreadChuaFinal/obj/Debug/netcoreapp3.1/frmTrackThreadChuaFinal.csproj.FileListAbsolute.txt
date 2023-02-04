@@ -1,0 +1,16 @@
+C:\Users\ADMIN\source\repos\frmTrackThreadChuaFinal\bin\Debug\netcoreapp3.1\frmTrackThreadChuaFinal.exe
+C:\Users\ADMIN\source\repos\frmTrackThreadChuaFinal\bin\Debug\netcoreapp3.1\frmTrackThreadChuaFinal.deps.json
+C:\Users\ADMIN\source\repos\frmTrackThreadChuaFinal\bin\Debug\netcoreapp3.1\frmTrackThreadChuaFinal.runtimeconfig.json
+C:\Users\ADMIN\source\repos\frmTrackThreadChuaFinal\bin\Debug\netcoreapp3.1\frmTrackThreadChuaFinal.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\frmTrackThreadChuaFinal\bin\Debug\netcoreapp3.1\frmTrackThreadChuaFinal.dll
+C:\Users\ADMIN\source\repos\frmTrackThreadChuaFinal\bin\Debug\netcoreapp3.1\frmTrackThreadChuaFinal.pdb
+C:\Users\ADMIN\source\repos\frmTrackThreadChuaFinal\obj\Debug\netcoreapp3.1\frmTrackThreadChuaFinal.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\frmTrackThreadChuaFinal\obj\Debug\netcoreapp3.1\frmTrackThreadChuaFinal.frmTrackThreadChuaFin.resources
+C:\Users\ADMIN\source\repos\frmTrackThreadChuaFinal\obj\Debug\netcoreapp3.1\frmTrackThreadChuaFinal.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\frmTrackThreadChuaFinal\obj\Debug\netcoreapp3.1\frmTrackThreadChuaFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\frmTrackThreadChuaFinal\obj\Debug\netcoreapp3.1\frmTrackThreadChuaFinal.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\frmTrackThreadChuaFinal\obj\Debug\netcoreapp3.1\frmTrackThreadChuaFinal.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\frmTrackThreadChuaFinal\obj\Debug\netcoreapp3.1\frmTrackThreadChuaFinal.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\frmTrackThreadChuaFinal\obj\Debug\netcoreapp3.1\frmTrackThreadChuaFinal.dll
+C:\Users\ADMIN\source\repos\frmTrackThreadChuaFinal\obj\Debug\netcoreapp3.1\frmTrackThreadChuaFinal.pdb
+C:\Users\ADMIN\source\repos\frmTrackThreadChuaFinal\obj\Debug\netcoreapp3.1\frmTrackThreadChuaFinal.genruntimeconfig.cache
